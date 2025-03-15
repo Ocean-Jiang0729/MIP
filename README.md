@@ -1,2 +1,2 @@
-# code for ICDE
+# code for MIP
 some main code of the submitted paper.
